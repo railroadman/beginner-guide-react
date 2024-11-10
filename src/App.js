@@ -85,7 +85,6 @@ function App() {
       ) : (
         <Result correct={correct}></Result>
       )}
-      {/* <Result /> */}
     </div>
   )
 }
